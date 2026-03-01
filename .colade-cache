@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "files": {
+    "Blog.md": {
+      "mtime": 0,
+      "output": "Blog.html"
+    },
+    "Index.md": {
+      "mtime": 0,
+      "output": "Index.html"
+    },
+    "Products.md": {
+      "mtime": 0,
+      "output": "Products.html"
+    }
+  }
+}
