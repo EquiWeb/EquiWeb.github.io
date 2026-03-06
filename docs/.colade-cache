@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "files": {
+    "EquiWeb-Logo.svg": {
+      "mtime": 1772808661,
+      "output": "EquiWeb-Logo.svg"
+    },
+    "EquiWeb_Logo_Transparent.svg": {
+      "mtime": 1772808661,
+      "output": "EquiWeb_Logo_Transparent.svg"
+    },
+    "blog.md": {
+      "mtime": 1772808661,
+      "output": "blog.html"
+    },
+    "blog/equicode-context.md": {
+      "mtime": 1772808661,
+      "output": "blog/equicode-context.html"
+    },
+    "blog/equidrive-log.md": {
+      "mtime": 1772808661,
+      "output": "blog/equidrive-log.html"
+    },
+    "blog/equiforge-design-notes.md": {
+      "mtime": 1772808661,
+      "output": "blog/equiforge-design-notes.html"
+    },
+    "blog/mimir-aip.md": {
+      "mtime": 1772808661,
+      "output": "blog/mimir-aip.html"
+    },
+    "contact-us.md": {
+      "mtime": 1772808661,
+      "output": "contact-us.html"
+    },
+    "equiweb-logo.png": {
+      "mtime": 1772808661,
+      "output": "equiweb-logo.png"
+    },
+    "index.md": {
+      "mtime": 1772808661,
+      "output": "index.html"
+    },
+    "products.md": {
+      "mtime": 1772808661,
+      "output": "products.html"
+    },
+    "style.css": {
+      "mtime": 1772808661,
+      "output": "style.css"
+    }
+  }
+}
