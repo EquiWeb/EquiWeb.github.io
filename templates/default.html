@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{{ .Title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/svg+xml" href="/EquiWeb-Logo.svg">
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <header>
+    <div class="site-brand">
+      <img src="/equiweb-logo.png" alt="EquiWeb" class="logo">
+      <span class="site-title">EquiWeb</span>
+    </div>
+    <nav>
+      <a href="/index.html">Home</a>
+      <a href="/products.html">Products</a>
+      <a href="/blog.html">Blog</a>
+    </nav>
+  </header>
+  <main>
+    {{ if .Title }}<h1>{{ .Title }}</h1>{{ end }}
+    {{ if .Date }}<p class="date">{{ .Date }}</p>{{ end }}
+    {{ .Content }}
+  </main>
+  <footer>
+    <p>&#169; EquiWeb 2026. Built with <a href="https://github.com/CiaranMcAleer/colade">colade</a>.</p>
+  </footer>
+</body>
+</html>
