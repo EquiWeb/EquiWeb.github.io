@@ -10,7 +10,7 @@
       "output": "EquiWeb_Logo_Transparent.svg"
     },
     "blog.md": {
-      "mtime": 1772794949,
+      "mtime": 1772807047,
       "output": "blog.html"
     },
     "blog/equicode-context.md": {
@@ -30,7 +30,7 @@
       "output": "blog/mimir-aip.html"
     },
     "contact-us.md": {
-      "mtime": 1772797055,
+      "mtime": 1772807942,
       "output": "contact-us.html"
     },
     "equiweb-logo.png": {
@@ -38,15 +38,15 @@
       "output": "equiweb-logo.png"
     },
     "index.md": {
-      "mtime": 1772802994,
+      "mtime": 1772807415,
       "output": "index.html"
     },
     "products.md": {
-      "mtime": 1772799065,
+      "mtime": 1772806847,
       "output": "products.html"
     },
     "style.css": {
-      "mtime": 1772802982,
+      "mtime": 1772807936,
       "output": "style.css"
     }
   }
