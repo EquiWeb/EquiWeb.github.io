@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# colade binary (platform-specific, not needed in repo)
+colade-darwin-arm64
+
